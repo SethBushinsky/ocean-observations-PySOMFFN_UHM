@@ -1,21 +1,21 @@
 {
   "title": "PySOMFFN: Python Self-Organising Map - Feed Forward Network",
   "version": "1.0.0",
-  "description": "Early beta version of SOM-FFN Python version.",
+  "description": "Early beta version of SOM-FFN implemented in Python.",
   "creators": [
     {
-      "name": "Burt, Daniel Jonathan",
+      "name": "Burt, Daniel J.",
       "affiliation": "Flanders Marine Institute (VLIZ)",
-      "orcid": "https://orcid.org/0000-0001-5863-9366"
+      "orcid": "0000-0001-5863-9366"
     },
     {
       "name": "Landschützer, Peter",
       "affiliation": "Flanders Marine Institute (VLIZ)",
-      "orcid": "https://orcid.org/0000-0002-7398-3293"
+      "orcid": "0000-0002-7398-3293"
     }
   ],
   "upload_type": "software",
   "access_right": "open",
-  "license": "MIT License",
+  "license": "MIT",
   "language": "eng"
 }
