@@ -1,5 +1,5 @@
 # PySOMFFN
-
+[![DOI](https://zenodo.org/badge/933018558.svg)](https://doi.org/10.5281/zenodo.14907584)
 ## DESCRIPTION
 
 Core file for running Self-Organising Map - Feed Forward Network (SOM-FFN) 
